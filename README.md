@@ -94,8 +94,12 @@ groups](#local-groups)!
 
 ### What about domains of adult content?
 
-While we understand these sites are popular, we don't want to include those to
-avoid controversy. You are free to add them to your custom configurations. 
+As these are hugely popular it's impractical to filter them from our list if we
+want good coverage so as a general rule we let these pass.
+
+Lists can be customized to prevent access to sensitive content, but we consider
+our target audience as responsible adults who can decide what content they want
+to consume.
 
 ### Do you want to control the Internet use of the differently abled?
 
