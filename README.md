@@ -74,6 +74,7 @@ What we provide:
 ## Local Groups
 
 * [Sample from Similarweb data](https://github.com/u-allow/sample)
+* [Cloudflare top domains](https://github.com/u-allow/u-allow-cf) 
 * [Hungary](https://github.com/u-allow/u-allow-hu)
 * Your group comes here!
 
