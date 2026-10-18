@@ -57,8 +57,10 @@ should be allowed. For example, people are mostly interested in local news and
 use the local branches of their banks.
 
 You can create your localization of this repository either by forking it or
-creating an independent copy. Our goal is not any kind of profit but to provide 
-tools for safe web browsing as widely as possible.
+creating an independent copy. You are also welcome to create thematic lists (e.g. 
+"Gardening in Spanish") that would work for a more global audience.
+Our goal is not any kind of profit but to provide tools for safe web browsing as 
+widely as possible.
 
 What we provide:
 
