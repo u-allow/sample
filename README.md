@@ -25,7 +25,7 @@ find browser-specific instructions to do so.
 
 ### Firefox
 
-Install the [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/).
+Install the [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) add-on.
 
 A new shield icon should appear next to the address bar of Firefox or among the add-ons 
 (puzzle icon). Click it to open up uBlock's primary controls!
@@ -38,7 +38,7 @@ Open the My Filters tab and copy the contents of the allow-list there.
 
 ![Allow-list pasted under My Filters](img/my-filters.png)
 
-Cogratulations, you are done!
+Congratulations, you are done!
 
 
 ### Chrome / Edge
