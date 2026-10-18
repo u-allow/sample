@@ -1,8 +1,10 @@
 # uAllow - Allow-Lists for the Vulnerable 
 
-This is a base repository for the uAllow project aimed at providing uBlock
+This the sample repository for the uAllow project aimed at providing uBlock
 **allow-lists** for the vulnerable among us to provide a safer web browsing 
 experience and avoid scams. 
+
+**The list is [here](list/similarweb.txt)**
 
 While people are constantly educated about being careful about opening
 *"suspicious links"* this advice fundamentally misses that:
@@ -64,16 +66,10 @@ widely as possible.
 
 What we provide:
 
-* A general purpose [template](template.txt) for allow-listing
+* A general purpose template for allow-listing
 * General documentation about configuration and intended purpose (you are
   reading this now)
-* Discoverability for [local groups](#local-groups)
-
-
-## Local Groups
-
-* [Hungary](https://github.com/u-allow/u-allow-hu)
-* Your group comes here!
+* Discoverability for [local groups](https://github.com/u-allow/u-allow#local-groups)
 
 
 ## FAQ
@@ -81,13 +77,13 @@ What we provide:
 ### Can we make this more international?
 
 Absolutely! Since maintaining a global list of safe domains is hard work, we
-distribute the problem to [local groups](#local-groups) who should maintain their
+distribute the problem to [local groups](https://github.com/u-allow/u-allow#local-groups) who should maintain their
 own forks of this repository. 
 
 ### An important domain is missing from the list!
 
 Please open an issue at the repository of your relevant [local
-groups](#local-groups)!
+groups](https://github.com/u-allow/u-allow#local-groups)!
 
 ### What about domains of adult content?
 
