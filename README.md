@@ -1,6 +1,6 @@
 # uAllow - Allow-Lists for the Vulnerable 
 
-This is a base repository for the Good Block project aimed at providing uBlock
+This is a base repository for the uAllow project aimed at providing uBlock
 **allow-lists** for the vulnerable among us to provide a safer web browsing 
 experience and avoid scams. 
 
