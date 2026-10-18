@@ -70,7 +70,7 @@ What we provide:
 
 ## Local Groups
 
-* [Hungary](https://github.com/u-follow/u-follow-hu)
+* [Hungary](https://github.com/u-allow/u-allow-hu)
 * Your group comes here!
 
 
